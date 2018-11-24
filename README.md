@@ -1,0 +1,2 @@
+# gitignore
+my gitignore
